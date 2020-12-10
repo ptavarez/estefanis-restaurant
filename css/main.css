@@ -1,0 +1,16 @@
+body, html {
+    background-color: #000;
+    height: 100%;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.bg {
+    min-height: 100%;
+}
